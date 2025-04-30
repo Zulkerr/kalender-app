@@ -2,11 +2,6 @@
 
 Eine einfache **Kalender**-App mit integriertem **Kalender** zum Verwalten von Aufgaben und Terminen. Benutzer können Aufgaben für bestimmte Daten hinzufügen, Aufgaben als erledigt markieren und Aufgaben löschen.
 
-## Live-Demo
-
-Besuche die Live-Demo der App hier:  
-[**Live Demo**](https://Zulkerr.github.io/kalender-app)
-
 
 ## Funktionen
 
