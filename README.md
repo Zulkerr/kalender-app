@@ -32,7 +32,7 @@ Eine einfache **Kalender**-App mit integriertem **Kalender** zum Verwalten von A
 
 5.   Starte die Anwendung:
       ```bash
-        npm star
+        npm start
    
 Die App wird im Browser unter http://localhost:3000 geöffnet.
 
