@@ -23,12 +23,17 @@ Eine einfache **Kalender**-App mit integriertem **Kalender** zum Verwalten von A
    git clone https://github.com/Zulkerr/kalender-app.git
 
 2. Navigiere in das Projektverzeichnis:
-     cd task-manager-app
+    ```bash 
+     cd todo-kalender-app
 
-3.  Installiere die Abhängigkeiten:
+4.  Installiere die Abhängigkeiten:
+      ```bash
      npm install
-4. Starte die Anwendung:
-    npm start
+
+5.   Starte die Anwendung:
+      ```bash
+        npm star
+   
 Die App wird im Browser unter http://localhost:3000 geöffnet.
 
 Nutzung
