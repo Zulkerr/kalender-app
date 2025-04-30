@@ -1,12 +1,42 @@
-# React + Vite
+# Task Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Eine einfache **Kalender**-App mit integriertem **Kalender** zum Verwalten von Aufgaben und Terminen. Benutzer können Aufgaben für bestimmte Daten hinzufügen, Aufgaben als erledigt markieren und Aufgaben löschen.
 
-Currently, two official plugins are available:
+## Funktionen
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Kalender**: Zeige einen Monatskalender, auf dem du Aufgaben für spezifische Tage hinzufügen kannst.
+- **Aufgabenverwaltung**: Erstelle, lösche und markiere Aufgaben als erledigt.
+- **Responsive Design**: Die App passt sich verschiedenen Bildschirmgrößen an.
 
-## Expanding the ESLint configuration
+## Technologien
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React**: JavaScript-Bibliothek für den Aufbau der Benutzeroberfläche.
+- **react-calendar**: Für die Kalender-Komponente.
+- **CSS**: Für das Styling der App.
+
+## Installation
+
+1. Klone das Repository:
+
+   ```bash
+   git clone https://github.com/Zulkerr/kalender-app.git
+
+2. Navigiere in das Projektverzeichnis:
+     cd task-manager-app
+
+3.  Installiere die Abhängigkeiten:
+     npm install
+4. Starte die Anwendung:
+    npm start
+Die App wird im Browser unter http://localhost:3000 geöffnet.
+
+Nutzung
+Wähle ein Datum im Kalender aus, um Aufgaben hinzuzufügen.
+
+Klicke auf "Hinzufügen", um eine neue Aufgabe zu erstellen.
+
+Markiere Aufgaben als erledigt, indem du auf die Checkbox klickst.
+
+Lösche Aufgaben mit dem "Löschen"-Button.
+
+Dieses Projekt ist unter der MIT-Lizenz lizenziert.
